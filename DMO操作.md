@@ -17,7 +17,7 @@ HTML DOM 定义了访问和操作 HTML 文档的标准方法。
 当浏览器载入`HTML`文档, 它就会成为`document`对象。
 `document`对象是`HTML`文档的根节点与所有其他节点（元素节点，文本节点，属性节点, 注释节点）。
 
-### 事件方法相关
+### 方法相关
 
 - document.addEventListener()  向文档添加句柄
 
@@ -30,6 +30,10 @@ title.addEventListener('click', function(){
 ```
 
 - document.removeEventListener()  移除文档中的事件句柄(由 addEventListener() 方法添加)
+
+```javascript
+title.removeEventListener();
+```
 
 - document.activeElement()  返回当前获取焦点元素
 

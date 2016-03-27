@@ -7,7 +7,7 @@ learn-javascript
 学习周期：2015.10.05-2016.01.01
 
 ## javasript基础
-- [ ] 基础语法
+- [X] 基础语法
 - [ ] 数据类型 及判断各种数据类型
 - [ ] 基本类型值（值类型） 和 复合数据类型值（引用类型）的区别
 
@@ -19,7 +19,7 @@ learn-javascript
 - [ ] 对象
 - [ ] 函数
 - [ ] 正则表达式
-- [ ] DOM操作
+- [X] DOM操作
 - [ ] 事件处理
 - [ ] BOM
 - [ ] ajax
@@ -34,6 +34,11 @@ learn-javascript
 - [ ] 面向对象（封装、继承、多态）
 - [ ] 设计模式
 - [ ] 模块化
+
+## 学习资源
+
+- [ECMAScript 6入门](https://likebeta.gitbooks.io/es6tutorial/content/)
+
 
 ---
 更新时间：2015.11.09
