@@ -4,11 +4,10 @@ learn-javascript
 学习javascript的一些笔记，目前还属于编辑状态，随时会改动，欢迎同行指教。
 
 学习目标：能够熟练使用javascript。
-学习周期：2015.10.05-2016.01.01
 
 ## javasript基础
 - [X] 基础语法
-- [ ] 数据类型 及判断各种数据类型
+- [X] 数据类型 及判断各种数据类型
 - [ ] 基本类型值（值类型） 和 复合数据类型值（引用类型）的区别
 
 ## javascript进阶
@@ -39,8 +38,11 @@ learn-javascript
 
 - [ECMAScript 6入门](https://likebeta.gitbooks.io/es6tutorial/content/)
 
+[3 种不同的原型继承： ES6+ 版本](http://www.zcfy.cc/article/425)
+
+[说说 Javascript 的 Date](https://github.com/lishengzxc/bblog/issues/5)
+
 
 ---
-更新时间：2015.11.09
 状态: 编辑（修订中）
 
