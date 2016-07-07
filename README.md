@@ -8,7 +8,6 @@ learn-javascript
 ## javasript基础
 - [X] 基础语法
 - [X] 数据类型 及判断各种数据类型
-- [ ] 基本类型值（值类型） 和 复合数据类型值（引用类型）的区别
 
 ## javascript进阶
 - [X] 变量
@@ -36,7 +35,7 @@ learn-javascript
 
 ## 学习资源
 
-- [ECMAScript 6入门](https://likebeta.gitbooks.io/es6tutorial/content/)
+[ECMAScript 6入门](https://likebeta.gitbooks.io/es6tutorial/content/)
 
 [3 种不同的原型继承： ES6+ 版本](http://www.zcfy.cc/article/425)
 
